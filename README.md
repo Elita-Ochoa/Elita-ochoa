@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MySQL and bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://elita-ochoa.github.io](https://elita-ochoa.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://elita-ochoa.github.io)
 
 - 📫 How to reach me **kidsaochoa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1udXqd3mAB63pDETfBgJf9V8Ea9nH4IxQ/view?usp=share_link](https://drive.google.com/file/d/1udXqd3mAB63pDETfBgJf9V8Ea9nH4IxQ/view?usp=share_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1udXqd3mAB63pDETfBgJf9V8Ea9nH4IxQ/view?usp=share_link)
 
 - ⚡ Fun fact **I can play the piano and play videogames**
 
